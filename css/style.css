@@ -806,7 +806,6 @@ p {
 .service .content_wrap {
     display: flex;
     gap: 0 45px;
-    margin-bottom: 30px;
 }
 
 .service .content_wrap>* {
